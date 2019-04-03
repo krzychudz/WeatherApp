@@ -102,4 +102,6 @@ E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\bin\Debug\WeatherApp.dll.mdb
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\linksrc\WeatherApp.dll.mdb

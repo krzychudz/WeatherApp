@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+
+
 namespace WeatherApp
 {
     public partial class MainPage : ContentPage
@@ -12,6 +14,8 @@ namespace WeatherApp
         public MainPage()
         {
             InitializeComponent();
+            
         }
+
     }
 }
