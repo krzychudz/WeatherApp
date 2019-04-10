@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:id="@+id/linearLayout"
+	>
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="100dp"
+		android:id="@+id/space1"
+		android:layout_marginBottom="10.0dp"
+	/>
+	<ImageView
+		android:src="@android:drawable/ic_menu_gallery"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/Pictogram"
+		android:layout_marginBottom="0.0dp"
+
+	/>
+	<TextView
+		android:text="lx"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="match_parent"
+		android:layout_height="41.5dp"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/sensorInfo"
+		android:layout_marginTop="0.0dp"
+		android:gravity="center_horizontal"
+		android:textSize="18dp"
+		/>
+	<TextView
+		android:text="Weather Info"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/weatherInfo" 
+		android:gravity="center_horizontal"
+	/>
+	<TextView
+		android:text="Clock"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/clock" />
+	<TextView
+		android:text="Date"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/date" />
+	
+
+
+
+
+</LinearLayout>

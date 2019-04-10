@@ -6,7 +6,8 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label x:Name="sensorInfo" Text="Welcome to Xamarin.Forms!" 
+        <Label
+           x:Name="sensorInfo" Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
