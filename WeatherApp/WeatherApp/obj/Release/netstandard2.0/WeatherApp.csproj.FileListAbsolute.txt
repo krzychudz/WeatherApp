@@ -1,0 +1,12 @@
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\bin\Release\netstandard2.0\WeatherApp.deps.json
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\bin\Release\netstandard2.0\WeatherApp.dll
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\bin\Release\netstandard2.0\WeatherApp.pdb
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.csprojAssemblyReference.cache
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.AssemblyInfo.cs
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\XamlC.stamp
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.dll
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.pdb

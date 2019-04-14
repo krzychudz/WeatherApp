@@ -108,6 +108,9 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "WeatherApp.Android.dll" comes first in this list. */
 		"WeatherApp.Android.dll",
 		"FormsViewGroup.dll",
+		"Plugin.CurrentActivity.dll",
+		"Plugin.Geolocator.dll",
+		"Plugin.Permissions.dll",
 		"WeatherApp.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

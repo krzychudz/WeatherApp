@@ -3,8 +3,12 @@ E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Java.Interop.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Mono.Android.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\mscorlib.dll
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Plugin.CurrentActivity.dll
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Plugin.Geolocator.dll
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Plugin.Permissions.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\System.Core.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\System.dll
+E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\System.Net.Http.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\System.Xml.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\WeatherApp.dll
@@ -31,7 +35,6 @@ E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.dll
-E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\System.Net.Http.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
 E:\Programowanie\Projekty\Xamarian\WeatherApp\WeatherApp\WeatherApp.Android\obj\Debug\81\android\assets\Mono.Security.dll
